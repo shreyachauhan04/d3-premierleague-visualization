@@ -1,10 +1,13 @@
-
 Radar Chart Web App: EPL Top 6 Teams (2014–2024)
 
-How to Use:
-1. Open 'index.html' in a browser.
-2. Click the 'Show Next Team' button to animate one team's radar path at a time.
-3. After six clicks, the chart shows all top 6 teams together.
+An interactive D3.js web app visualizing the performance of the **Top 6 Premier League teams** from 2014 to 2024 using a radar chart. The chart highlights key attributes across seasons, revealing comparative strengths and trends over time.
+
+How to Use
+
+1. Open `index.html` in your browser.
+2. Click the **"Show Next Team"** button to animate one team's radar path at a time.
+3. After six clicks, the radar chart will display **all Top 6 teams** together for full comparison.
+
 
 Files:
 - index.html: Main webpage
