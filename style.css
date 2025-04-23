@@ -1,0 +1,16 @@
+
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background: #f9f9f9;
+}
+#chart {
+  margin: auto;
+  width: 90%;
+  height: 700px;
+}
+button {
+  padding: 10px 20px;
+  margin: 20px;
+  font-size: 16px;
+}
